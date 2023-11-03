@@ -1,0 +1,212 @@
+const musicLinks = [
+
+    {
+    id: 1,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144393/vidxir%20background%20music/uplifting/weeknds-122592_gkxuq3.mp3",
+  },
+
+  {
+    id: 2,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144343/vidxir%20background%20music/uplifting/kids-games-145973_w2w6yt.mp3",
+  },
+
+  {
+    id: 3,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144337/vidxir%20background%20music/uplifting/atch-forever-127340_fdracq.mp3",
+  },
+
+  {
+    id: 4,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144333/vidxir%20background%20music/uplifting/summer-walk-152722_tcioqu.mp3",
+  },
+
+  {
+    id: 5,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144332/vidxir%20background%20music/uplifting/easy-lifestyle-137766_cl0nn4.mp3",
+  },
+
+  {
+    id: 6,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144332/vidxir%20background%20music/uplifting/inspiring-emotional-uplifting-piano-112623_twdq8l.mp3",
+  },
+
+  {
+    id: 7,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144332/vidxir%20background%20music/uplifting/the-beat-of-nature-122841_ujq3fh.mp3",
+  },
+
+  {
+    id: 8,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144320/vidxir%20background%20music/uplifting/relaxing-145038_mlp2qn.mp3",
+  },
+
+  {
+    id: 9,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144145/vidxir%20background%20music/uplifting/warm-summer-evening-126259_vgzdhg.mp3",
+  },
+
+  {
+    id: 10,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144138/vidxir%20background%20music/uplifting/relaxing-afternoon-full-version-relaxing-and-easy-piano-music-112850_fanbc0.mp3",
+  },
+
+  {
+    id: 11,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144114/vidxir%20background%20music/uplifting/uplifting-acoustic-folk-152835_rm1vfo.mp3",
+  },
+
+  {
+    id: 12,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144109/vidxir%20background%20music/uplifting/warm-and-soft-guitar-144450_qyhimw.mp3",
+  },
+
+  {
+    id: 13,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144106/vidxir%20background%20music/uplifting/upbeat-journey-124608_emdfg1.mp3",
+  },
+
+  {
+    id: 14,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144098/vidxir%20background%20music/uplifting/sweet-home-upbeat-world-vibes-119122_zzhknf.mp3",
+  },
+
+  {
+    id: 15,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144094/vidxir%20background%20music/uplifting/sunny-mood_main-122845_r7swok.mp3",
+  },
+
+  {
+    id: 16,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144091/vidxir%20background%20music/uplifting/positive-indie-folk-129194_tido7t.mp3",
+  },
+
+  {
+    id: 17,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144088/vidxir%20background%20music/uplifting/super-duper-fun-124565_uwukym.mp3",
+  },
+
+  {
+    id: 18,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144084/vidxir%20background%20music/uplifting/piano-inspiring-4539_fx9l9a.mp3",
+  },
+
+  {
+    id: 19,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144079/vidxir%20background%20music/uplifting/os-137117_puzrzt.mp3",
+  },
+
+  {
+    id: 20,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144067/vidxir%20background%20music/uplifting/kids-games-145973_zy8eco.mp3",
+  },
+
+  {
+    id: 21,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144056/vidxir%20background%20music/uplifting/operetta-15180_e8vlpy.mp3",
+  },
+
+  {
+    id: 22,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144053/vidxir%20background%20music/uplifting/far-too-close-124596_lla0iv.mp3",
+  },
+
+  {
+    id: 23,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144053/vidxir%20background%20music/uplifting/my-happy-piano-piano-amp-softpad-music-1648_iuad1b.mp3",
+  },
+
+  {
+    id: 24,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144048/vidxir%20background%20music/uplifting/inspiring-happy-violins-150060_nqh7v2.mp3",
+  },
+
+  {
+    id: 25,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144047/vidxir%20background%20music/uplifting/happy-days-a-slime-rancher-song-123219_ainm55.mp3",
+  },
+
+  {
+    id: 26,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144042/vidxir%20background%20music/uplifting/holiday-is-coming-11852_zcl4xl.mp3",
+  },
+
+  {
+    id: 27,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144039/vidxir%20background%20music/uplifting/happy-chrismtas-fairy-tale-jingle-bells-orchestral-new-year-125111_p4awq2.mp3",
+  },
+
+  {
+    id: 28,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144037/vidxir%20background%20music/uplifting/happy-day-guitar-hey-and-violins-118837_xjaoll.mp3",
+  },
+
+  {
+    id: 29,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144034/vidxir%20background%20music/uplifting/happy-christmas-127247_ywer2y.mp3",
+  },
+
+  {
+    id: 30,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144027/vidxir%20background%20music/uplifting/happy-tears-146128_zbyfvt.mp3",
+  },
+
+  {
+    id: 31,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144020/vidxir%20background%20music/uplifting/happy-christmas-morning-with-family-141479_jwzao8.mp3",
+  },
+
+  {
+    id: 32,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144019/vidxir%20background%20music/uplifting/bright-amp-happy-ukulele-summer-theme-baby-cakes-133588_sn0kfy.mp3",
+  },
+
+   {
+    id: 33,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144018/vidxir%20background%20music/uplifting/feel-the-tasty-summer-air-137637_gn42eu.mp3",
+  },
+
+   {
+    id: 34,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144015/vidxir%20background%20music/uplifting/happy-birthday-to-you-122428_kalocu.mp3",
+  },
+
+   {
+    id: 35,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144012/vidxir%20background%20music/uplifting/christmas-party-and-award-ceremony-corporate-opener-intro-125112_zdcjuf.mp3",
+  },
+
+   {
+    id: 36,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144011/vidxir%20background%20music/uplifting/best-friends-131363_tithqp.mp3",
+  },
+
+   {
+    id: 37,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144011/vidxir%20background%20music/uplifting/best-friends-131363_tithqp.mp3",
+  },
+
+   {
+    id: 38,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144008/vidxir%20background%20music/uplifting/atch-forever-127340_vaj5np.mp3",
+  },
+
+   {
+    id: 39,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698144003/vidxir%20background%20music/uplifting/elation-99158_qb7alr.mp3",
+  },
+
+   {
+    id: 40,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698143992/vidxir%20background%20music/uplifting/birra-dubbel-132841_m8nv9x.mp3",
+  },
+
+   {
+    id: 41,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698143984/vidxir%20background%20music/uplifting/acoustic-guitar-and-piano-for-alarm-clock-143071_sobxfe.mp3",
+  },
+
+
+   ];
+
+
+export default musicLinks;
