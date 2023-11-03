@@ -1,0 +1,101 @@
+const musicLinks = [
+    {
+    id: 1,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698143023/vidxir%20background%20music/bright/trip-drum-135095_jgzxg4.mp3",
+  },
+  {
+    id: 2,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698143020/vidxir%20background%20music/bright/with-you-166882_gpey31.mp3",
+  },
+  {
+    id: 3,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698143007/vidxir%20background%20music/bright/uplifting-rock-edit-1-164054_sfd9bo.mp3",
+  },
+  {
+    id: 4,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698143006/vidxir%20background%20music/bright/sunny-day-168506_xmrph7.mp3",
+  },
+  {
+    id: 5,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698143005/vidxir%20background%20music/bright/prodigy-dance-134657_vczdpd.mp3",
+  },
+  {
+    id: 6,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698143004/vidxir%20background%20music/bright/source-of-inspiration-166260_n2ul80.mp3",
+  },
+  {
+    id: 7,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698143000/vidxir%20background%20music/bright/positive-funky-165411_fhfwjh.mp3",
+  },
+   {
+    id: 8,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142996/vidxir%20background%20music/bright/electro-garage-rock-169188_pnmhnp.mp3",
+  },
+   {
+    id: 9,
+    url: " https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142996/vidxir%20background%20music/bright/pop-rock-motivational-141952_n8wowk.mp3",
+  },
+   {
+    id: 10,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142987/vidxir%20background%20music/bright/indie-rock-far-away-15040_dxli6i.mp3",
+  }, {
+    id: 11,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142976/vidxir%20background%20music/bright/christmas-vacation-christmas-eve-and-new-year-fairy-tale-125673_zlbetp.mp3",
+  },
+
+  {
+    id: 12,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142970/vidxir%20background%20music/bright/intro-the-mask-by-oleksii-bezsalov-logo-intro-electro-swing-159514_e9alij.mp3",
+  },
+
+  {
+    id: 13,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142968/vidxir%20background%20music/bright/funny-happy-birthday-156940_kkgvml.mp3",
+  },
+
+  {
+    id: 14,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142963/vidxir%20background%20music/bright/apoastro-158902_ugdpdl.mp3",
+  },
+
+  {
+    id: 15,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142962/vidxir%20background%20music/bright/a-calm-ambient-164163_ueilli.mp3",
+  },
+
+  {
+    id: 16,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142962/vidxir%20background%20music/bright/fighter-author_-marcos-molina-167665_e1v0ze.mp3",
+  },
+
+
+  {
+    id: 17,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142959/vidxir%20background%20music/bright/chill-beats-1-166599_cjn9gw.mp3",
+  },
+
+  {
+    id: 18,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142954/vidxir%20background%20music/bright/dreamy-mood-edit-1-165090_rrjixu.mp3",
+  },
+
+  
+  {
+    id: 19,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142953/vidxir%20background%20music/bright/beyond-future-169028_bn5nzz.mp3",
+  },
+
+  {
+    id: 20,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142926/vidxir%20background%20music/bright/bring-me-the-energy-163407_tbti4z.mp3",
+  },
+
+  {
+    id: 21,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142903/vidxir%20background%20music/bright/cartoon-intro-13087_xrfqm7.mp3",
+  },
+
+];
+
+
+export default musicLinks;

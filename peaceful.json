@@ -1,0 +1,48 @@
+const musicLinks = [
+
+    {
+    id: 1,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142825/vidxir%20background%20music/peaceful/happy-days-a-slime-rancher-song-123219_utnv3p.mp3",
+  },
+  {
+    id: 2,
+    url: "https://res.cloudinary.com/dhk9clnxe/video/upload/v1698142793/vidxir%20background%20music/peaceful/happy-day-118838_scnjqs.mp3",
+  },
+  
+  {
+    id: 3,
+    url: "",
+  },
+  
+  {
+    id: 4,
+    url: "",
+  },
+  
+  {
+    id: 5,
+    url: "",
+  },
+  
+  {
+    id: 6,
+    url: "",
+  },
+  
+  {
+    id: 7,
+    url: "",
+  },
+  
+  {
+    id: 8,
+    url: "",
+  },
+  
+  
+
+
+    ];
+
+
+export default musicLinks;
